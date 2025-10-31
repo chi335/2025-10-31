@@ -1,6 +1,30 @@
+<div align="center">
+
 # 🧩 Git & GitHub 학습 가이드
 
-> 깃(Git)과 깃허브(GitHub)를 활용하여 **버전 관리, 협업, 개발 환경 구축**을 익히는 실습 중심 가이드입니다.
+![Git Logo](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+![VSCode Logo](https://code.visualstudio.com/assets/images/code-stable.png)
+
+---
+
+[![Git Badge](https://img.shields.io/badge/Git-Expert-orange?logo=git&logoColor=white)]()
+[![GitHub Badge](https://img.shields.io/badge/GitHub-Advanced-black?logo=github)]()
+[![VSCode Badge](https://img.shields.io/badge/VS%20Code-Setup-blue?logo=visualstudiocode)]()
+[![Copilot Badge](https://img.shields.io/badge/Copilot-AI%20Coding-green?logo=githubcopilot)]()
+
+</div>
+
+---
+
+## 📚 목차 (Table of Contents)
+
+1. [깃(Git) 기본 개념 및 버전 관리 (01~03)](#-1️⃣-git-기본-개념-및-버전-관리-0103)
+2. [깃허브(GitHub) 활용 및 협업 (04~06)](#-2️⃣-github-활용-및-협업-0406)
+3. [개발 환경 실습 및 최신 기능 (07~NEW)](#-3️⃣-개발-환경-실습-및-최신-기능-07new)
+4. [학습 요약](#-학습-요약)
+5. [참고 & 팁](#-참고--팁)
+6. [한 줄 정리](#-한-줄-정리)
 
 ---
 
@@ -30,28 +54,41 @@
 |:----:|:-----|:----------|
 | **07** | **VS Code로 깃/깃허브 관리하기** | - VS Code **소스 제어(GUI)** 활용<br>- 커맨드 없이 저장소 생성, 커밋, 브랜치 관리<br>- 깃허브 연결 및 동기화 |
 | **08** | **이력서 사이트 & 블로그 만들기** | - **GitHub Pages**로 HTML/CSS 이력서 웹사이트 제작<br>- **Jekyll 블로그** 구축 및 포스트 작성 |
-| **NEW** | **깃허브 최신 기능** | - **클라우드 개발 환경**: Codespaces, GitHub Dev (`github.dev`)<br>- **AI 코드 추천 서비스**: GitHub Copilot |
+| **NEW** | **깃허브 최신 기능** | - **클라우드 개발 환경:** Codespaces, GitHub Dev (`github.dev`)<br>- **AI 코드 추천 서비스:** GitHub Copilot |
 
 ---
 
 ## 📊 학습 요약
 
-| 구분 | 학습 목표 | 주요 도구 |
-|:----:|:-----------|:-----------|
-| 🧱 **기본기** | Git으로 버전 관리 및 브랜치 활용 | Git CLI |
-| 🤝 **협업** | GitHub를 통한 원격 협업 & Pull Request | GitHub |
-| 🧰 **실습 & 응용** | VS Code, GitHub Pages, Copilot 실습 | VS Code, GitHub Pages, Copilot |
+| 구분 | 학습 목표 | 주요 도구 | 완료 상태 |
+|:----:|:-----------|:-----------|:-----------:|
+| 🧱 **기본기** | Git으로 버전 관리 및 브랜치 활용 | Git CLI | ✅ |
+| 🤝 **협업** | GitHub를 통한 원격 협업 & Pull Request | GitHub | ✅ |
+| 🧰 **실습 & 응용** | VS Code, GitHub Pages, Copilot 실습 | VS Code, GitHub Pages | 🏗️ 진행 중 |
 
 ---
 
 ## 💡 참고 & 팁
-- **작업 전 확인:** `git status`  
-- **이전 버전 확인:** `git log --oneline --graph`  
-- **새 브랜치 생성:** `git branch feature/login`  
-- **PR 생성 후 리뷰 요청**을 통해 협업 품질 향상  
+
+- 🔍 **작업 전 확인:** `git status`  
+- 🕒 **이전 버전 확인:** `git log --oneline --graph`  
+- 🌱 **새 브랜치 생성:** `git branch feature/login`  
+- 🔄 **브랜치 병합:** `git merge feature/login`  
+- 🙌 **PR 생성 후 리뷰 요청**으로 협업 품질 향상  
 
 ---
 
 ## 🏁 한 줄 정리
-> 깃은 “버전 관리의 핵심 도구”, 깃허브는 “협업의 중심 플랫폼”!  
-> 둘을 함께 익히면 **개발 생산성과 협업 능력**이 두 배로 향상됩니다 🚀
+
+> 깃은 **버전 관리의 핵심 도구**,  
+> 깃허브는 **협업의 중심 플랫폼** 🌍  
+> 둘을 함께 익히면 **개발 생산성과 협업 능력**이 🚀 두 배로 향상됩니다.
+
+---
+
+<div align="center">
+
+### 🧠 Made for Learners by Developers ❤️  
+_“Commit your progress. Push your passion.”_
+
+</div>
