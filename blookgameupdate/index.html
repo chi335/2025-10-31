@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>벽돌 깨기 게임</title>
+    <link rel="stylesheet" href="style.css"> 
+</head>
+<body>
+    <div class="game-container">
+        <canvas id="gameCanvas" width="600" height="400"></canvas>
+        
+        <div id="gameStatusOverlay" class="overlay">
+            <h1 id="statusTitle">벽돌 깨기 게임</h1>
+            <p id="statusMessage">스페이스바를 눌러 게임을 시작하세요! (← → 키 사용)</p>
+            <button id="restartButton" class="hidden-button">다시 시작</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
