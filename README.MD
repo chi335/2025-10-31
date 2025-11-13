@@ -1,5 +1,3 @@
-<div align="center">
-
 # 💼 Git & GitHub 학습 포트폴리오
 
 > “Commit your progress. Push your passion.”  
