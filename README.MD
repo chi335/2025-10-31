@@ -7,16 +7,6 @@
 
 ---
 
-![Git Logo](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
-![VSCode Logo](https://code.visualstudio.com/assets/images/code-stable.png)
-
-[![Git Badge](https://img.shields.io/badge/Git-Expert-orange?logo=git&logoColor=white)]()
-[![GitHub Badge](https://img.shields.io/badge/GitHub-Collaboration-black?logo=github)]()
-[![VSCode Badge](https://img.shields.io/badge/VS%20Code-Workflow-blue?logo=visualstudiocode)]()
-[![Copilot Badge](https://img.shields.io/badge/Copilot-AI%20Coding-green?logo=githubcopilot)]()
-
----
 
 📘 **이 저장소는 Git & GitHub 학습 내용을 정리하고 실습한 기록입니다.**  
 **버전 관리, 협업, 배포**에 대한 개념을 익히고 실제 프로젝트에 적용하는 것을 목표로 합니다.
